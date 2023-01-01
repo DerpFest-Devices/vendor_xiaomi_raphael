@@ -1218,6 +1218,7 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
+    camerax-vendor-extensions \
     tcmclient \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
